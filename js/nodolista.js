@@ -1,4 +1,4 @@
-localStorage['serviceURL'] = "http://10.0.0.181/emoncms/input/";
+localStorage['serviceURL'] = "http://10.0.0.181/emon/input/";
 var serviceURL = localStorage['serviceURL'];
 
 var scroll = new iScroll('wrapper', { vScrollbar: false, hScrollbar:false, hScroll: false });
